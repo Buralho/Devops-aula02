@@ -1,4 +1,5 @@
 # Devops-aula02
 # Tais Araujo
-# Ivete Sangalo
+# Neymar
 # Jennifer Lopes
+# Faustão 
